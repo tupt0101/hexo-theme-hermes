@@ -1,8 +1,9 @@
 menu:
     Blog: /
-    GitHub: https://github.com/claymcleod
     Archive: archives/
-    Feed: atom.xml
+    About Me: about/
+    # GitHub: https://github.com/claymcleod
+    # Feed: atom.xml
 
 favicon: favicon.png
 logo: favicon.png

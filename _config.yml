@@ -19,4 +19,4 @@ disqus:
 startyear: 2019
 
 # Image Credits
-enable_image_credit: true 
+enable_image_credit: false 
